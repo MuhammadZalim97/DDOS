@@ -6,7 +6,7 @@ $pkg install python2
 
 $pkg install git
 
-$git clone https://github.com/MuhammadZalim/DDOS
+$git clone https://github.com/MuhammadZalim97/DDOS
 
 $cd DDOS
 
